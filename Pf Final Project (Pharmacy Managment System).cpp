@@ -1,5 +1,5 @@
 /*  
-		Project:   Pharmacy Managment System
+		Project:   Pharmacy Management System For Semester Project
 	*/		
 
 
